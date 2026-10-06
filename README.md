@@ -2,11 +2,16 @@
 
 # Self-Hosted-Server
 
+
+
+
 ### Self-Assembled & Production-Inspired Home Server Infrastructure
 
 > A self-hosted Ubuntu server built from repurposed PC hardware and configured as a production-inspired homelab. This project demonstrates end-to-end infrastructure engineering—from hardware assembly and Linux administration to Docker containerization, reverse proxy configuration, secure networking, and hosting multiple self-managed applications.
 
 ---
+## Architecture
+![Self-hosted-server Architecture Diagram](./Self-Hosted-Server-Architecture.png)
 
 #  Overview
 
